@@ -16,5 +16,5 @@ Thanks. Ben
 
 Result # Screen Shots This is the PyPoll screen shot - Showing the end result print. Please refer to txt file as required for this module.
 
-![Uploading image.png…]()
+<img width="1006" alt="Screenshot 2024-03-10 at 11 39 34 pm" src="https://github.com/Mono-Co/python-challenge/assets/69753431/bce6071a-c461-4802-9d43-b31c3f1307ae">
 

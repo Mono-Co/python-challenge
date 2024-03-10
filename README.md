@@ -6,11 +6,11 @@ This is the PyPoll & PyBank challenge.
 Python - PyPoll Challenge
 
 Our task is to create a Python script that analyzes the votes and calculates each of the following values:
-The total number of votes cast
-1. A complete list of candidates who received votes
-2. The percentage of votes each candidate won
-3. The total number of votes each candidate won
-4. The winner of the election based on popular vote
+1. The total number of votes cast
+2. A complete list of candidates who received votes
+3. The percentage of votes each candidate won
+4. The total number of votes each candidate won
+5. The winner of the election based on popular vote
 
 Python - PyBank Challenge
 
